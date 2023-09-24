@@ -1,0 +1,83 @@
+[
+    {
+      "id": "1",
+      "image": "https://example.com/phone1.jpg",
+      "phone_name": "Phone Model A",
+      "brand_name": "Brand X",
+      "price": 499.99,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "image": "https://example.com/phone2.jpg",
+      "phone_name": "Phone Model B",
+      "brand_name": "Brand Y",
+      "price": 599.99,
+      "rating": 4.2
+    },
+    {
+      "id": "3",
+      "image": "https://example.com/phone3.jpg",
+      "phone_name": "Phone Model C",
+      "brand_name": "Brand Z",
+      "price": 699.99,
+      "rating": 4.8
+    },
+    {
+      "id": "4",
+      "image": "https://example.com/phone4.jpg",
+      "phone_name": "Phone Model D",
+      "brand_name": "Brand X",
+      "price": 449.99,
+      "rating": 4.0
+    },
+    {
+      "id": "5",
+      "image": "https://example.com/phone5.jpg",
+      "phone_name": "Phone Model E",
+      "brand_name": "Brand Y",
+      "price": 799.99,
+      "rating": 4.7
+    },
+    {
+      "id": "6",
+      "image": "https://example.com/phone6.jpg",
+      "phone_name": "Phone Model F",
+      "brand_name": "Brand Z",
+      "price": 899.99,
+      "rating": 4.6
+    },
+    {
+      "id": "7",
+      "image": "https://example.com/phone7.jpg",
+      "phone_name": "Phone Model G",
+      "brand_name": "Brand X",
+      "price": 349.99,
+      "rating": 4.4
+    },
+    {
+      "id": "8",
+      "image": "https://example.com/phone8.jpg",
+      "phone_name": "Phone Model H",
+      "brand_name": "Brand Y",
+      "price": 699.99,
+      "rating": 4.3
+    },
+    {
+      "id": "9",
+      "image": "https://example.com/phone9.jpg",
+      "phone_name": "Phone Model I",
+      "brand_name": "Brand Z",
+      "price": 749.99,
+      "rating": 4.9
+    },
+    {
+      "id": "10",
+      "image": "https://example.com/phone10.jpg",
+      "phone_name": "Phone Model J",
+      "brand_name": "Brand X",
+      "price": 499.99,
+      "rating": 4.1
+    }
+  ]
+  
